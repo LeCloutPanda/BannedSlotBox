@@ -7,5 +7,5 @@ encumber
 cockatoo
 coconut
 cockroach
-cicumscibe
+cicumscribe
 document
